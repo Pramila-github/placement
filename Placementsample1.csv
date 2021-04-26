@@ -1,0 +1,140 @@
+﻿sl_no,gender,comSkill,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,No_certi,internships,etest_p,sports,placetest_p,status
+1,M,1,67,Others,91,Others,Commerce,58,Compsci,8,1,55,1,89,Placed
+2,M,1,79.33,Central,78.33,Others,Science,77.48,Compsci,6,1,86.5,0,45,Placed
+3,M,0,65,Central,68,Central,Arts,64,b.Tech it,4,1,75,0,37,Placed
+4,M,0,56,Central,52,Central,Science,52,Compsci,9,0,66,0,79,Not Placed
+5,M,0,85.8,Central,73.6,Central,Commerce,73.3,Electronics,2,1,96.8,0,46,Placed
+6,F,0,55,Others,49.8,Others,Science,67.25,Compsci,16,0,55,0,34,Not Placed
+7,M,0,46,Others,49.2,Others,Commerce,79,Electronics,7,0,74.28,0,85,Not Placed
+8,M,1,82,Central,64,Central,Science,66,Compsci,6,1,67,0,76,Placed
+9,F,1,73,Central,79,Central,Commerce,72,b.Tech itgmt,1,1,91.34,1,37,Placed
+10,F,1,58,Central,70,Central,Commerce,61,b.Tech itgmt,3,0,54,0,55,Not Placed
+11,M,1,58,Central,61,Central,Commerce,60,b.Tech itgmt,5,1,62,0,68,Placed
+12,M,1,69.6,Central,68.4,Central,Commerce,78.3,b.Tech itgmt,3,1,60,1,61,Placed
+13,M,0,47,Central,55,Others,Science,65,b.Tech itgmt,3,0,62,0,72,Not Placed
+14,M,0,77,Central,87,Central,Commerce,59,Electronics,2,1,68,0,43,Placed
+15,F,0,62,Central,47,Central,Commerce,50,b.Tech itgmt,1,0,76,0,63,Not Placed
+16,F,1,65,Central,75,Central,Commerce,69,b.Tech itgmt,4,1,72,0,52,Placed
+17,M,0,63,Central,66.2,Central,Commerce,65.6,Electronics,2,1,60,0,86,Placed
+18,M,0,55,Central,67,Central,Commerce,64,b.Tech itgmt,3,0,60,0,74,Not Placed
+19,F,1,63,Central,66,Central,Commerce,64,b.Tech itgmt,3,0,68,0,70,Not Placed
+20,M,1,60,Others,67,Others,Arts,70,b.Tech itgmt,5,1,50.48,0,60,Placed
+21,F,0,62,Others,65,Others,Commerce,66,Electronics,4,1,50,0,50,Placed
+22,F,0,79,Others,76,Others,Commerce,85,b.Tech itgmt,2,1,95,0,40,Placed
+23,M,0,69.8,Others,60.8,Others,Science,72.23,Compsci,8,1,55.53,1,35,Placed
+24,M,0,77.4,Others,60,Others,Science,64.74,Compsci,9,1,92,1,44,Placed
+25,M,1,76.5,Others,97.7,Others,Science,78.86,Compsci,13,1,97.4,0,51,Placed
+26,M,1,52.58,Others,54.6,Central,Commerce,50.2,b.Tech itgmt,3,0,76,0,60,Not Placed
+27,M,0,71,Others,79,Others,Commerce,66,Electronics,2,1,94,0,85,Placed
+28,M,0,63,Others,67,Others,Commerce,66,b.Tech itgmt,1,1,68,0,62,Placed
+29,M,1,76.76,Others,76.5,Others,Commerce,67.5,b.Tech itgmt,2,1,73.35,1,66,Placed
+30,M,1,76.76,Others,76.5,Others,Commerce,67.5,b.Tech itgmt,0,0,60.35,0,51.29,Not Placed
+31,F,1,62,Central,67,Central,Commerce,58,Electronics,2,1,77,0,56.7,Placed
+32,F,0,64,Central,73.5,Central,Commerce,73,b.Tech itgmt,3,0,52,0,58.32,Not Placed
+33,F,0,67,Central,53,Central,Science,65,Compsci,8,1,64,0,62.21,Placed
+34,F,0,61,Central,81,Central,Commerce,66.4,b.Tech itgmt,5,1,50.89,0,72.78,Placed
+35,M,1,87,Others,65,Others,Science,81,Electronics,4,0,88,0,62.77,Not Placed
+36,F,0,62,Others,51,Others,Science,52,Others,36,1,68.44,0,62.74,Placed
+37,M,0,69,Central,78,Central,Commerce,72,b.Tech itgmt,4,0,71,0,51.45,Not Placed
+38,F,1,51,Central,44,Central,Commerce,57,b.Tech itgmt,7,1,64,0,55.47,Placed
+39,F,1,79,Central,76,Central,Science,65.6,Compsci,8,1,58,0,56.86,Placed
+40,M,1,73,Others,58,Others,Science,66,b.Tech itgmt,1,1,53.7,1,62.56,Placed
+41,F,0,81,Others,68,Others,Science,64,Compsci,2,1,93,1,66.72,Placed
+42,F,0,78,Central,77,Others,Commerce,80,Electronics,0,0,60,0,69.76,Not Placed
+43,M,1,74,Others,63.16,Others,Commerce,65,b.Tech itgmt,3,0,65,0,51.21,Not Placed
+44,M,1,49,Others,39,Central,Science,65,Others,0,1,63,0,62.9,Placed
+45,F,0,87,Others,87,Others,Commerce,68,b.Tech itgmt,2,1,95,0,69.7,Placed
+46,F,0,77,Others,73,Others,Commerce,81,b.Tech itgmt,3,0,89,1,66.53,Not Placed
+47,F,0,76,Central,64,Central,Science,72,Compsci,4,0,58,1,71.63,Not Placed
+48,M,0,70.89,Others,71.98,Others,Science,65.6,Electronics,5,1,68,0,54.55,Placed
+49,M,0,63,Central,60,Central,Commerce,57,b.Tech itgmt,0,1,78,0,62.46,Placed
+50,F,0,63,Others,62,Others,Commerce,68,Electronics,2,0,64,0,56.11,Not Placed
+51,F,0,50,Others,37,Others,Arts,52,Others,0,1,65,0,62.98,Placed
+52,M,0,75.2,Central,73.2,Central,Science,68.4,b.Tech itgmt,1,0,65,1,62.65,Not Placed
+53,F,0,54.4,Central,61.12,Central,Commerce,56.2,b.Tech itgmt,2,0,67,0,65.49,Not Placed
+54,M,1,40.89,Others,45.83,Others,Commerce,53,b.Tech itgmt,4,1,71.2,0,71.04,Placed
+55,F,0,80,Others,70,Others,Science,72,Compsci,9,1,87,0,65.56,Placed
+56,M,0,74,Central,60,Others,Science,69,b.Tech itgmt,2,1,78,0,52.71,Placed
+57,M,1,60.4,Central,66.6,Others,Science,65,Electronics,3,1,71,0,66.88,Placed
+58,M,1,63,Others,71.4,Others,Commerce,61.4,b.Tech itgmt,1,1,68,0,63.59,Placed
+59,M,0,68,Central,76,Central,Commerce,74,b.Tech itgmt,2,1,80,0,57.99,Placed
+60,M,0,74,Central,62,Others,Science,68,b.Tech itgmt,0,1,74,0,56.66,Placed
+61,M,0,52.6,Central,65.58,Others,Science,72.11,Compsci,8,1,57.6,0,57.24,Placed
+62,M,0,74,Central,70,Central,Science,72,b.Tech itgmt,1,1,60,0,62.48,Placed
+63,F,1,84.2,Central,73.4,Central,Commerce,66.89,b.Tech itgmt,0,1,61.6,0,59.69,Placed
+64,M,1,86.5,Others,64.2,Others,Science,67.4,Compsci,7,0,59,0,59.5,Not Placed
+65,M,0,61,Others,70,Others,Commerce,64,b.Tech itgmt,0,1,68.5,0,58.78,Placed
+66,M,0,80,Others,73,Others,Commerce,75,b.Tech itgmt,3,0,61,0,57.1,Not Placed
+67,M,1,54,Others,47,Others,Science,57,Electronics,1,1,89.69,0,58.46,Placed
+68,M,0,83,Others,74,Others,Science,66,b.Tech itgmt,2,1,68.92,0,60.99,Placed
+69,F,1,80.92,Others,78.5,Others,Commerce,67,b.Tech itgmt,5,0,68.71,0,59.24,Not Placed
+70,M,1,69.7,Central,47,Central,Commerce,72.7,Compsci,8,1,79,0,68.07,Placed
+71,M,0,73,Central,73,Central,Science,66,Compsci,7,1,70,0,65.45,Placed
+72,M,0,82,Others,61,Others,Science,62,Compsci,9,1,89,1,66.94,Placed
+73,M,0,75,Others,70.29,Others,Commerce,71,b.Tech itgmt,0,1,95,1,68.53,Placed
+74,M,1,84.86,Others,67,Others,Science,78,b.Tech itgmt,2,1,95.5,0,59.75,Placed
+75,M,1,64.6,Central,83.83,Others,Commerce,71.72,b.Tech itgmt,3,1,86,0,67.2,Placed
+76,F,0,56.6,Central,64.8,Central,Commerce,70.2,Electronics,1,0,84.27,0,67,Not Placed
+77,F,0,59,Central,62,Others,Commerce,77.5,b.Tech itgmt,2,1,74,0,64.27,Placed
+78,M,1,66.5,Others,70.4,Central,Arts,71.93,b.Tech itgmt,0,1,61,1,57.65,Placed
+79,M,0,64,Others,80,Others,Science,65,Compsci,12,1,69,0,59.42,Placed
+80,F,0,84,Others,90.9,Others,Science,64.5,Compsci,9,0,86.04,1,67.99,Not Placed
+81,F,1,69,Central,62,Central,Science,66,Compsci,4,1,75,0,62.35,Placed
+82,M,0,69,Others,62,Others,Commerce,69,b.Tech itgmt,2,1,67,0,70.2,Placed
+83,M,1,81.7,Others,63,Others,Science,67,b.Tech itgmt,0,0,86,0,60.44,Not Placed
+84,M,1,63,Central,67,Central,Commerce,74,Electronics,3,1,82,0,66.69,Placed
+85,M,0,84,Others,79,Others,Science,68,Compsci,8,1,84,1,62,Placed
+86,F,0,70,Central,63,Others,Science,70,Compsci,9,1,55,1,76.18,Placed
+87,M,0,83.84,Others,89.83,Others,Commerce,77.2,b.Tech itgmt,1,1,78.74,0,57.03,Placed
+88,M,1,62,Others,63,Others,Commerce,64,b.Tech itgmt,2,0,67,0,59.08,Not Placed
+89,F,0,59.6,Central,51,Central,Science,60,Others,0,1,75,0,64.36,Placed
+90,F,0,66,Central,62,Central,Commerce,73,b.Tech itgmt,0,1,58,0,62.36,Placed
+91,F,0,84,Others,75,Others,Science,69,Compsci,6,1,62,1,68.03,Placed
+92,M,0,85,Others,90,Others,Commerce,82,b.Tech itgmt,3,0,92,0,62.79,Not Placed
+93,F,0,52,Central,57,Central,Commerce,50.8,Electronics,1,1,67,0,59.47,Placed
+94,M,0,60.23,Central,69,Central,Science,66,b.Tech itgmt,2,0,72,0,55.41,Not Placed
+95,M,0,52,Central,62,Central,Commerce,54,b.Tech itgmt,0,1,72,0,54.97,Placed
+96,M,0,58,Central,62,Central,Commerce,64,Electronics,3,1,53.88,1,62.16,Placed
+97,F,0,73,Central,78,Others,Commerce,65,b.Tech itgmt,0,1,95.46,0,64.44,Placed
+98,F,1,76,Central,70,Central,Science,76,b.Tech itgmt,4,0,66,0,69.03,Not Placed
+99,F,0,70.5,Central,62.5,Others,Commerce,61,b.Tech itgmt,5,1,93.91,0,57.31,Placed
+100,F,1,68,others,70.5,others,Science,77.9,Compsci,9,0,62.5,1,85,Not Placed
+101,M,0,70,others,56.9,others,science,88,b.Tech itgmt,5,1,69,0,78,Placed
+102,M,0,88,central,74,central,Science,66.9,Compsci,2,1,56.5,1,65,Placed
+103,M,1,78.8,others,60,others,Commerce,87.9,b.Tech itgmt,4,0,89.1,0,68.9,Not Placed
+104,F,0,59.3,central,70.1,central,Arts,60,Electronics,9,1,61,1,75.3,Placed
+105,F,1,76.3,others,55.5,others,Arts,80.5,b.Tech itgmt,6,0,52.5,1,65.7,Not Placed
+106,M,0,63,central,69.5,central,Science,77.3,Compsci,15,1,68.5,1,73.8,Placed
+107,F,0,78,central,57,central,Commerce,66.9,b.Tech itgmt,8,1,62,0,78.5,Placed
+108,M,1,88.6,others,72.7,others,Arts,71.7,b.Tech itgmt,3,1,55,1,88.8,Placed
+109,M,0,67.2,others,85.5,others,Commerce,86.9,Electronics,1,1,78.25,0,89.42,Placed
+110,F,1,68,others,77.1,others,Commerce,88.47,b.Tech itgmt,7,0,63.5,1,66,Not Placed
+111,F,1,73,central,60.53,central,Commerce,87.9,b.Tech itgmt,8,1,90.3,1,84,Placed
+112,F,0,57.61,central,70.5,central,Science,77.9,Compsci,4,0,62.5,1,75.37,Not Placed
+113,M,1,78,others,90.5,others,Science,80,Compsci,11,0,59,0,55.6,Not Placed
+114,M,0,53,others,96,others,Arts,74.42,Electronics,1,1,60.9,1,67.34,Placed
+115,F,0,68,central,80.5,central,Science,68.5,Compsci,6,0,67.5,1,85,Not Placed
+116,F,0,61.5,others,79.6,others,Arts,80.9,b.Tech itgmt,4,0,97,1,50.28,Not Placed
+117,M,1,98,others,88,others,Science,80,Compsci,1,1,63.7,0,75.3,Placed
+118,F,1,86.5,central,70.5,central,Science,77,Compsci,7,0,66.5,0,82.28,Not Placed
+119,M,0,68.4,others,72,others,Commerce,77.9,b.Tech itgmt,8,1,62.5,1,77.5,Placed
+120,F,1,82.3,others,67.6,others,Science,85.3,Compsci,17,0,78,1,85.7,Not Placed
+121,F,1,79.3,others,94.6,others,Science,67,Compsci,7,0,89.5,0,80,Not Placed
+122,F,0,69.8,central,60.8,central,Commerce,72.23,b.Tech itgmt,6,1,55.53,1,85,Placed
+123,F,1,60,others,67,others,Science,70,Compsci,10,1,50.48,0,76.9,Placed
+124,M,0,68,others,70.5,others,Arts,77.9,b.Tech itgmt,4,0,62.5,0,50.89,Not Placed
+125,M,1,76.5,others,97.7,others,Arts,78.6,Electronics,5,1,91.4,1,81,Placed
+126,F,1,80.92,central,90.56,central,Science,86.46,Compsci,1,1,74.89,1,59.9,Placed
+127,F,1,63,central,67,central,Commerce,74,b.Tech itgmt,9,0,87,0,76.56,Not Placed
+128,M,0,52,others,57,others,Arts,69,b.Tech itgmt,3,1,77,1,67.7,Placed
+129,F,1,79,others,80.88,others,Science,90.45,Compsci,13,0,79.88,0,70.16,Not Placed
+130,F,1,60.23,central,69,central,Science,79,Compsci,8,1,80.67,1,80,Placed
+131,F,1,82,central,90,central,Arts,80,Electronics,4,1,61,0,60,Placed
+132,F,1,65.8,others,73.96,others,Science,66.6,Compsci,1,0,55.3,0,67,Not Placed
+133,F,1,77.44,others,93,others,Arts,74,b.Tech itgmt,9,1,88,1,60.77,Placed
+134,F,1,68,central,70.5,central,Commerce,65.66,b.Tech itgmt,5,0,67.85,0,75.48,Not Placed
+135,F,1,55.77,central,67.39,central,Commerce,60,Electronics,9,1,62.5,0,74.54,Placed
+136,F,1,84,others,70,others,Science,80.99,Compsci,10,1,88.52,1,57,Placed
+137,F,1,61.15,others,83.2,others,Science,70.1,Compsci,3,0,78.49,0,70.23,Not Placed
+138,F,1,75.8,central,79.67,central,Commerce,80.34,b.Tech itgmt,6,1,81,1,85.7,Placed
+139,F,1,90,others,81,others,Science,77.9,Compsci,4,0,89.88,0,69.48,Not Placed
