@@ -2,4 +2,3 @@ streamlit
 keras
 pandas
 sklearn
-model.py
