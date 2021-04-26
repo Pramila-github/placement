@@ -1,7 +1,8 @@
 import pickle
 import streamlit as st
+pickle_in = open('model.pkl', 'rb')
+models = pickle.load(pickle_in)
 
-models = pickle.load(open('model.pkl', 'rb'))
 
 
 def home():
