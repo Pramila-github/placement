@@ -1,5 +1,6 @@
 import pickle
 import streamlit as st
+import pandas as pd
 
 dataframe = pd.read_csv('Placementsample1.csv')
 def convert_to_int(word):
