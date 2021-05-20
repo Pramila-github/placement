@@ -5,5 +5,4 @@ sklearn
 numpy
 scipy
 scikit-learn
-pickle
-streamlit
+pickle-mixin
