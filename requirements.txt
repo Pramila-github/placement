@@ -5,5 +5,5 @@ pandas
 sklearn
 numpy
 scipy
-scikit-learn
+Scikit-learn==0.20.4
 joblib
