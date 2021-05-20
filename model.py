@@ -16,7 +16,9 @@ regressor=regressor.fit(X_train,y_train)
 from sklearn.metrics import accuracy_score
 score=accuracy_score(y_test,y_pred)
 print(scorce)
-pickle_out = open("model.pkl","wb")
-pickle.dump(regressor, pickle_out)
-pickle_out.close()
-print(model.predict([[convert_to_int('Good'),69.6,68.4,78.3,5,convert_to_int('completed'),60,convert_to_int('yes'),80]]))
+from sklearn.externals import joblib  # Save to file
+
+joblib_file = "model.pkl"   
+joblib.dump(regressor, joblib_file)
+
+#print(model.predict([[convert_to_int('Good'),69.6,68.4,78.3,5,convert_to_int('completed'),60,convert_to_int('yes'),80]]))
