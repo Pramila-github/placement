@@ -1,17 +1,14 @@
-import pickle
+
 import streamlit as st
+import numpy as np
+import pickle
 import pandas as pd
 
-dataframe = pd.read_csv('Placementsample1.csv')
-def convert_to_int(word):
-    word_dict = {'Good':1, 'Bad':0,'yes':1,'no':0,'completed':1,'none':0}
-    return word_dict[word]
-X=dataframe.loc[:,['comSkill','ssc_p','hsc_p','degree_p','No_certi','internships','etest_p','sports','placetest_p']]
-y=dataframe.loc[:,['status']]
-from sklearn.ensemble import RandomForestClassifier
-regressor = RandomForestClassifier(n_estimators=10,criterion='entropy')
+
+pickle_in = open("classifier.pkl","rb")
+classifier=pickle.load(pickle_in)
+
 #Fitting model with training data
-regressor=regressor.fit(X, y)
 
 
 def home():
@@ -46,7 +43,7 @@ def main():
     hsc_s = st.sidebar.radio("HSC Group", ('Science', 'Arts', 'biology', 'Others'))
     degree_t = st.radio("Degree(Engineering) 🎓", ('Computer science Engineering', ' B.Tech IT', 'Electronics','Others'))
     degree_p = st.slider('Degree percentage', 0, 1, 100)
-    No_certi = st.text_input('Number of certifications 🏆📜')
+    No_certi = st.number_input('Number of certifications 🏆📜')
     internships = st.radio("Internships 👨‍💻", ('completed', 'none'))
     internships1 = convert_to_int(internships)
     etest_p = st.slider('E-tests(aptitude)  🏁', 0, 1, 100)
