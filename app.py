@@ -1,12 +1,11 @@
 
 import streamlit as st
 import numpy as np
-import pickle
 import pandas as pd
 
+from sklearn.externals import joblib
+models = joblib.load('model.pkl')
 
-pickle_in = open("model.pkl","rb")
-models=pickle.load(pickle_in)
 
 #Fitting model with training data
 
