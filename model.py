@@ -1,5 +1,4 @@
 import pandas as pd
-import pickle
 import numpy as np
 
 dataframe = pd.read_csv('Placementsample1.csv')
