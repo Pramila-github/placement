@@ -6,7 +6,7 @@ import pandas as pd
 
 
 pickle_in = open("model.pkl","rb")
-classifier=pickle.load(pickle_in)
+models=pickle.load(pickle_in)
 
 #Fitting model with training data
 
@@ -16,7 +16,7 @@ def home():
 
 
 def predict(comSkill, ssc_p, hsc_p, degree_p, No_certi,internships, etest_p, sports, placetest_p):
-    prediction = predict([[comSkill, ssc_p, hsc_p, degree_p, No_certi, internships,etest_p, sports, placetest_p]])
+    prediction = models.predict([[comSkill, ssc_p, hsc_p, degree_p, No_certi, internships,etest_p, sports, placetest_p]])
     print(prediction)
     return prediction
 
