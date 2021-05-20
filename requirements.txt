@@ -6,4 +6,4 @@ sklearn
 numpy
 scipy
 scikit-learn
-pickle-mixin
+joblib
