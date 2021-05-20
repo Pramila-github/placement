@@ -15,7 +15,7 @@ regressor=regressor.fit(X_train,y_train)
 from sklearn.metrics import accuracy_score
 score=accuracy_score(y_test,y_pred)
 print(scorce)
-from sklearn.externals import joblib  # Save to file
+import joblib  # Save to file
 
 joblib_file = "model.pkl"   
 joblib.dump(regressor, joblib_file)
