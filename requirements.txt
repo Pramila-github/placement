@@ -3,3 +3,6 @@ keras
 pandas
 sklearn
 numpy
+scipy
+scikit-learn
+streamlit
