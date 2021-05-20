@@ -17,7 +17,7 @@ score=accuracy_score(y_test,y_pred)
 print(scorce)
 import joblib  # Save to file
 
-joblib_file = "model.pkl"   
+joblib_file = 'model.pkl'   
 joblib.dump(regressor, joblib_file)
 
 #print(model.predict([[convert_to_int('Good'),69.6,68.4,78.3,5,convert_to_int('completed'),60,convert_to_int('yes'),80]]))
