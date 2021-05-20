@@ -1,4 +1,4 @@
-python==3.7
+sudo apt-get build-dep python3.6
 streamlit
 keras
 pandas
