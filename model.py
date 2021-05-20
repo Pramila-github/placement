@@ -11,13 +11,12 @@ y=dataframe.loc[:,['status']]
 from sklearn.model_selection import train_test_split
 X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.3,random_state=0)
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.ensemble import RandomForestClassifier
-classifier=RandomForestClassifier()
+regressor=RandomForestClassifier()
 regressor=regressor.fit(X_train,y_train)
 from sklearn.metrics import accuracy_score
 score=accuracy_score(y_test,y_pred)
 print(scorce)
 pickle_out = open("model.pkl","wb")
-pickle.dump(classifier, pickle_out)
+pickle.dump(regressor, pickle_out)
 pickle_out.close()
 print(model.predict([[convert_to_int('Good'),69.6,68.4,78.3,5,convert_to_int('completed'),60,convert_to_int('yes'),80]]))
