@@ -5,7 +5,7 @@ import pickle
 import pandas as pd
 
 
-pickle_in = open("regressor.pkl","rb")
+pickle_in = open("model.pkl","rb")
 classifier=pickle.load(pickle_in)
 
 #Fitting model with training data
