@@ -1,0 +1,216 @@
+sl_no,gender,comSkill,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,No_certi,Internship,etest_p,placetest_p,sports,status
+1,M,Good,67,Others,91,Others,Commerce,58,Compsci,8,completed,55,58.8,Yes,Placed
+2,M,Good,79.33,Central,78.33,Others,Science,77.48,Compsci,6,none,86.5,66.28,No,Placed
+3,M,Bad,65,Central,68,Central,Arts,64,b.Tech it,4,completed,75,57.8,No,Placed
+4,M,Bad,56,Central,52,Central,Science,52,Compsci,9,completed,66,59.43,No,Not Placed
+5,M,Bad,85.8,Central,73.6,Central,Commerce,73.3,Electronics,2,completed,96.8,55.5,No,Placed
+6,M,Bad,55,Others,49.8,Others,Science,67.25,Compsci,16,none,55,51.58,No,Not Placed
+7,F,Bad,46,Others,49.2,Others,Commerce,79,Electronics,7,completed,74.28,53.29,No,Not Placed
+8,M,Good,82,Central,64,Central,Science,66,Compsci,6,none,67,62.14,No,Placed
+9,M,Good,73,Central,79,Central,Commerce,72,b.Tech itgmt,1,completed,91.34,61.29,Yes,Placed
+10,M,Good,58,Central,70,Central,Commerce,61,b.Tech itgmt,3,completed,54,52.21,No,Not Placed
+11,M,Good,58,Central,61,Central,Commerce,60,b.Tech itgmt,5,none,62,60.85,No,Placed
+12,M,Good,69.6,Central,68.4,Central,Commerce,78.3,b.Tech itgmt,3,none,60,63.7,Yes,Placed
+13,F,Bad,47,Central,55,Others,Science,65,b.Tech itgmt,3,completed,62,65.04,No,Not Placed
+14,F,Bad,77,Central,87,Central,Commerce,59,Electronics,2,completed,68,68.63,No,Placed
+15,M,Bad,62,Central,47,Central,Commerce,50,b.Tech itgmt,1,completed,76,54.96,No,Not Placed
+16,F,Good,65,Central,75,Central,Commerce,69,b.Tech itgmt,4,none,72,64.66,No,Placed
+17,M,Bad,63,Central,66.2,Central,Commerce,65.6,Electronics,2,none,60,62.54,No,Placed
+18,F,Bad,55,Central,67,Central,Commerce,64,b.Tech itgmt,3,completed,60,67.28,No,Not Placed
+19,F,Good,63,Central,66,Central,Commerce,64,b.Tech itgmt,3,completed,68,64.08,No,Not Placed
+20,M,Good,60,Others,67,Others,Arts,70,b.Tech itgmt,5,none,50.48,77.89,No,Placed
+21,M,Bad,62,Others,65,Others,Commerce,66,Electronics,4,completed,50,56.7,No,Placed
+22,F,Bad,79,Others,76,Others,Commerce,85,b.Tech itgmt,2,completed,95,69.06,No,Placed
+23,F,Bad,69.8,Others,60.8,Others,Science,72.23,Compsci,8,completed,55.53,68.81,Yes,Placed
+24,F,Bad,77.4,Others,60,Others,Science,64.74,Compsci,9,none,92,63.62,Yes,Placed
+25,M,Good,76.5,Others,97.7,Others,Science,78.86,Compsci,13,completed,97.4,74.01,No,Placed
+26,F,Good,52.58,Others,54.6,Central,Commerce,50.2,b.Tech itgmt,3,none,76,65.33,No,Not Placed
+27,M,Bad,71,Others,79,Others,Commerce,66,Electronics,2,none,94,57.55,No,Placed
+28,M,Bad,63,Others,67,Others,Commerce,66,b.Tech itgmt,1,completed,68,57.69,No,Placed
+29,M,Good,76.76,Others,76.5,Others,Commerce,67.5,b.Tech itgmt,2,none,73.35,64.15,Yes,Placed
+30,M,Good,62,Central,67,Central,Commerce,58,b.Tech itgmt,0,completed,77,51.29,No,Not Placed
+31,F,Good,64,Central,73.5,Central,Commerce,73,Electronics,2,completed,52,56.7,No,Placed
+32,F,Bad,67,Central,53,Central,Science,65,b.Tech itgmt,3,completed,64,58.32,No,Not Placed
+33,F,Bad,61,Central,81,Central,Commerce,66.4,Compsci,8,completed,50.89,62.21,No,Placed
+34,F,Bad,87,Others,65,Others,Science,81,b.Tech itgmt,5,none,88,72.78,No,Placed
+35,M,Good,62,Others,51,Others,Science,52,Electronics,4,completed,68.44,62.77,No,Not Placed
+36,F,Bad,69,Central,78,Central,Commerce,72,Others,36,completed,71,62.74,No,Placed
+37,M,Bad,51,Central,44,Central,Commerce,57,b.Tech itgmt,4,completed,64,51.45,No,Not Placed
+38,F,Good,79,Central,76,Central,Science,65.6,b.Tech itgmt,7,completed,58,55.47,No,Placed
+39,F,Good,73,Others,58,Others,Science,66,Compsci,8,completed,53.7,56.86,No,Placed
+40,M,Good,81,Others,68,Others,Science,64,b.Tech itgmt,1,completed,93,62.56,Yes,Placed
+41,F,Bad,78,Central,77,Others,Commerce,80,Compsci,2,completed,60,66.72,Yes,Placed
+42,F,Bad,74,Others,63.16,Others,Commerce,65,Electronics,0,none,65,69.76,No,Not Placed
+43,M,Good,49,Others,39,Central,Science,65,b.Tech itgmt,3,completed,63,51.21,No,Not Placed
+44,M,Good,87,Others,87,Others,Commerce,68,Others,0,completed,95,62.9,No,Placed
+45,F,Bad,77,Others,73,Others,Commerce,81,b.Tech itgmt,2,none,89,69.7,No,Placed
+46,F,Bad,76,Central,64,Central,Science,72,b.Tech itgmt,3,completed,58,66.53,Yes,Not Placed
+47,F,Bad,70.89,Others,71.98,Others,Science,65.6,Compsci,4,completed,68,71.63,Yes,Not Placed
+48,M,Bad,63,Central,60,Central,Commerce,57,Electronics,5,none,78,54.55,No,Placed
+49,M,Bad,63,Others,62,Others,Commerce,68,b.Tech itgmt,0,completed,64,62.46,No,Placed
+50,F,Bad,50,Others,37,Others,Arts,52,Electronics,2,completed,65,56.11,No,Not Placed
+51,F,Bad,75.2,Central,73.2,Central,Science,68.4,Others,0,completed,65,62.98,No,Placed
+52,M,Bad,54.4,Central,61.12,Central,Commerce,56.2,b.Tech itgmt,1,completed,67,62.65,Yes,Not Placed
+53,F,Good,40.89,Others,45.83,Others,Commerce,53,b.Tech itgmt,4,completed,71.2,65.49,No,Not Placed
+54,M,Bad,80,Others,70,Others,Science,72,Compsci,9,completed,87,71.04,No,Placed
+55,F,Bad,74,Central,60,Others,Science,69,b.Tech itgmt,2,completed,78,65.56,No,Placed
+56,M,Good,60.4,Central,66.6,Others,Science,65,Electronics,3,completed,71,52.71,No,Placed
+57,M,Good,63,Others,71.4,Others,Commerce,61.4,b.Tech itgmt,1,completed,68,66.88,No,Placed
+58,M,Bad,68,Central,76,Central,Commerce,74,b.Tech itgmt,2,completed,80,63.59,No,Placed
+59,M,Bad,74,Central,62,Others,Science,68,b.Tech itgmt,0,completed,74,57.99,No,Placed
+60,M,Bad,52.6,Central,65.58,Others,Science,72.11,Compsci,8,completed,57.6,56.66,No,Placed
+61,M,Bad,74,Central,70,Central,Science,72,b.Tech itgmt,1,none,60,57.24,No,Placed
+62,M,Good,84.2,Central,73.4,Central,Commerce,66.89,b.Tech itgmt,0,completed,61.6,62.48,No,Placed
+63,F,Good,86.5,Others,64.2,Others,Science,67.4,Compsci,7,completed,59,59.69,No,Placed
+64,M,Bad,61,Others,70,Others,Commerce,64,b.Tech itgmt,0,completed,68.5,59.5,No,Not Placed
+65,M,Bad,80,Others,73,Others,Commerce,75,b.Tech itgmt,3,completed,61,58.78,No,Placed
+66,M,Good,54,Others,47,Others,Science,57,Electronics,1,completed,89.69,57.1,No,Not Placed
+67,M,Bad,83,Others,74,Others,Science,66,b.Tech itgmt,2,completed,68.92,58.46,No,Placed
+68,M,Good,80.92,Others,78.5,Others,Commerce,67,b.Tech itgmt,5,completed,68.71,60.99,No,Placed
+69,F,Good,69.7,Central,47,Central,Commerce,72.7,Compsci,8,completed,79,59.24,No,Not Placed
+70,M,Bad,73,Central,73,Central,Science,66,Compsci,7,none,70,68.07,No,Placed
+71,M,Bad,82,Others,61,Others,Science,62,Compsci,9,completed,89,65.45,Yes,Placed
+72,M,Bad,75,Others,70.29,Others,Commerce,71,b.Tech itgmt,0,completed,95,66.94,Yes,Placed
+73,M,Good,84.86,Others,67,Others,Science,78,b.Tech itgmt,2,completed,95.5,68.53,No,Placed
+74,M,Good,64.6,Central,83.83,Others,Commerce,71.72,b.Tech itgmt,3,completed,86,59.75,No,Placed
+75,M,Bad,56.6,Central,64.8,Central,Commerce,70.2,Electronics,1,completed,84.27,67.2,No,Placed
+76,F,Bad,59,Central,62,Others,Commerce,77.5,b.Tech itgmt,2,completed,74,67,No,Not Placed
+77,F,Good,66.5,Others,70.4,Central,Arts,71.93,b.Tech itgmt,0,completed,61,64.27,Yes,Placed
+78,M,Bad,64,Others,80,Others,Science,65,Compsci,12,none,69,57.65,No,Placed
+79,M,Bad,84,Others,90.9,Others,Science,64.5,Compsci,9,completed,86.04,59.42,Yes,Placed
+80,F,Good,69,Central,62,Central,Science,66,Compsci,4,completed,75,67.99,No,Not Placed
+81,F,Bad,69,Others,62,Others,Commerce,69,b.Tech itgmt,2,none,67,62.35,No,Placed
+82,M,Good,81.7,Others,63,Others,Science,67,b.Tech itgmt,0,none,86,70.2,No,Placed
+83,M,Good,63,Central,67,Central,Commerce,74,Electronics,3,completed,82,60.44,No,Not Placed
+84,M,Bad,84,Others,79,Others,Science,68,Compsci,8,none,84,66.69,Yes,Placed
+85,M,Bad,70,Central,63,Others,Science,70,Compsci,9,none,55,62,Yes,Placed
+86,F,Bad,83.84,Others,89.83,Others,Commerce,77.2,b.Tech itgmt,1,none,78.74,76.18,No,Placed
+87,M,Good,62,Others,63,Others,Commerce,64,b.Tech itgmt,2,completed,67,57.03,No,Placed
+88,M,Bad,59.6,Central,51,Central,Science,60,Others,0,completed,75,59.08,No,Not Placed
+89,F,Bad,66,Central,62,Central,Commerce,73,b.Tech itgmt,0,completed,58,64.36,No,Placed
+90,F,Bad,84,Others,75,Others,Science,69,Compsci,6,none,62,62.36,Yes,Placed
+91,F,Bad,85,Others,90,Others,Commerce,82,b.Tech itgmt,3,completed,92,68.03,No,Placed
+92,M,Bad,52,Central,57,Central,Commerce,50.8,Electronics,1,completed,67,62.79,No,Not Placed
+93,F,Bad,60.23,Central,69,Central,Science,66,b.Tech itgmt,2,completed,72,59.47,No,Placed
+94,M,Bad,52,Central,62,Central,Commerce,54,b.Tech itgmt,0,completed,72,55.41,No,Not Placed
+95,M,Bad,58,Central,62,Central,Commerce,64,Electronics,3,completed,53.88,54.97,Yes,Placed
+96,M,Bad,73,Central,78,Others,Commerce,65,b.Tech itgmt,0,none,95.46,62.16,No,Placed
+97,F,Good,76,Central,70,Central,Science,76,b.Tech itgmt,4,none,66,64.44,No,Placed
+98,F,Bad,70.5,Central,62.5,Others,Commerce,61,b.Tech itgmt,5,completed,93.91,69.03,No,Not Placed
+99,F,Good,69,Central,73,Central,Commerce,65,Compsci,9,completed,70,57.31,Yes,Placed
+100,M,Bad,54,Central,82,Others,Commerce,63,b.Tech itgmt,5,completed,50,59.47,No,Not Placed
+101,F,Bad,45,Others,57,Others,Commerce,58,Compsci,2,none,56.39,64.95,Yes,Not Placed
+102,M,Good,63,Central,72,Central,Commerce,68,b.Tech itgmt,4,completed,78,60.44,No,Placed
+103,F,Bad,77,Others,61,Others,Commerce,68,Electronics,9,none,57.5,61.31,Yes,Placed
+104,M,Good,73,Central,78,Central,Science,73,b.Tech itgmt,6,none,85,65.83,Yes,Placed
+105,M,Bad,69,Central,63,Others,Science,65,Compsci,15,none,55,58.23,Yes,Placed
+106,M,Bad,59,Central,64,Others,Science,58,b.Tech itgmt,8,completed,85,55.3,No,Not Placed
+107,M,Good,61.08,Others,50,Others,Science,54,b.Tech itgmt,3,completed,71,65.69,Yes,Not Placed
+108,M,Bad,82,Others,90,Others,Commerce,83,Electronics,1,completed,80,73.52,No,Placed
+109,M,Good,61,Central,82,Central,Commerce,69,b.Tech itgmt,7,completed,84,58.31,Yes,Placed
+110,M,Good,52,Central,63,Others,Science,65,b.Tech itgmt,8,none,86,56.09,Yes,Not Placed
+111,F,Bad,69.5,Central,70,Central,Science,72,Compsci,4,completed,57.2,54.8,Yes,Placed
+112,M,Good,51,Others,54,Others,Science,61,Compsci,11,completed,60,60.64,No,Not Placed
+113,M,Bad,58,Others,61,Others,Commerce,61,Electronics,1,completed,58,53.94,Yes,Placed
+114,F,Bad,73.96,Others,79,Others,Commerce,67,Compsci,6,completed,72.15,63.08,Yes,Placed
+115,M,Bad,65,Central,68,Others,Science,69,b.Tech itgmt,4,completed,53.7,55.01,Yes,Placed
+116,F,Good,73,Others,63,Others,Science,66,Compsci,1,completed,89,60.5,No,Placed
+117,M,Good,68.2,Central,72.8,Central,Commerce,66.6,Compsci,7,none,96,70.85,No,Placed
+118,M,Bad,77,Others,75,Others,Science,73,b.Tech itgmt,8,completed,80,67.05,Yes,Placed
+119,M,Good,76,Central,80,Central,Science,78,Compsci,17,none,97,70.48,Yes,Placed
+120,M,Good,60.8,Central,68.4,Central,Commerce,64.6,Compsci,7,none,82.66,64.34,No,Placed
+121,M,Bad,58,Others,40,Others,Science,59,b.Tech itgmt,6,completed,73,58.81,Yes,Not Placed
+122,F,Good,64,Central,67,Others,Science,69.6,Compsci,10,none,55.67,71.49,No,Placed
+123,F,Bad,66.5,Central,66.8,Central,Arts,69.3,b.Tech itgmt,4,none,80.4,71,No,Placed
+124,M,Good,74,Others,59,Others,Commerce,73,Electronics,5,none,60,56.7,Yes,Placed
+125,M,Good,67,Central,71,Central,Science,64.33,Compsci,1,none,64,61.26,Yes,Placed
+126,F,Good,84,Central,73,Central,Commerce,73,b.Tech itgmt,9,completed,75,73.33,No,Placed
+127,F,Bad,79,Others,61,Others,Science,75.5,b.Tech itgmt,3,none,70,68.2,Yes,Placed
+128,F,Good,72,Others,60,Others,Science,69,Compsci,13,completed,55.5,58.4,No,Placed
+129,M,Good,80.4,Central,73.4,Central,Science,77.72,Compsci,8,none,81.2,76.26,Yes,Placed
+130,M,Good,76.7,Central,89.7,Others,Commerce,66,Electronics,4,none,90,68.55,No,Placed
+131,M,Good,62,Central,65,Others,Commerce,60,Compsci,1,completed,84,64.15,No,Not Placed
+132,F,Good,74.9,Others,57,Others,Science,62,b.Tech itgmt,9,none,80,60.78,Yes,Placed
+133,M,Good,67,Others,68,Others,Commerce,64,b.Tech itgmt,5,none,74.4,53.49,No,Placed
+134,M,Good,73,Central,64,Others,Commerce,77,Electronics,9,none,65,60.98,No,Placed
+135,F,Good,77.44,Central,92,Others,Commerce,72,Compsci,10,none,94,67.13,Yes,Placed
+136,F,Good,72,Central,56,Others,Science,69,Compsci,3,completed,55.6,65.63,No,Placed
+137,F,Good,47,Central,59,Central,Arts,64,b.Tech itgmt,6,completed,78,61.58,Yes,Not Placed
+138,M,Good,67,Others,63,Central,Commerce,72,Compsci,4,completed,56,60.41,No,Placed
+139,F,Good,82,Others,64,Others,Science,73,Electronics,9,none,96,71.77,No,Placed
+140,M,Good,77,Central,70,Central,Commerce,59,b.Tech itgmt,4,none,58,54.43,No,Placed
+141,M,Bad,65,Central,64.8,Others,Commerce,69.5,Compsci,2,none,56,56.94,No,Placed
+142,M,Good,66,Central,64,Central,Science,60,b.Tech itgmt,0,completed,60,61.9,No,Not Placed
+143,M,Bad,85,Central,60,Others,Science,73.43,Electronics,3,none,60,61.29,No,Placed
+144,M,Bad,77.67,Others,64.89,Others,Commerce,70.67,Others,8,completed,89,60.39,No,Placed
+145,M,Bad,52,Others,50,Others,Arts,61,b.Tech itgmt,9,completed,60,58.52,No,Not Placed
+146,M,Good,89.4,Others,65.66,Others,Science,71.25,b.Tech itgmt,1,completed,72,63.23,Yes,Placed
+147,M,Good,62,Central,63,Others,Science,66,Compsci,2,completed,85,55.14,No,Placed
+148,M,Bad,70,Central,74,Central,Commerce,65,b.Tech itgmt,0,completed,83,62.28,No,Placed
+149,F,Good,77,Central,86,Central,Arts,56,Compsci,0,completed,57,64.08,Yes,Placed
+150,M,Good,44,Central,58,Central,Arts,55,Electronics,6,none,64.25,58.54,No,Not Placed
+151,M,Bad,71,Central,58.66,Central,Science,58,b.Tech itgmt,3,none,56,61.3,No,Placed
+152,M,Good,65,Central,65,Central,Commerce,75,Others,1,completed,83,58.87,No,Placed
+153,F,Bad,75.4,Others,60.5,Central,Science,84,b.Tech itgmt,2,completed,98,65.25,No,Placed
+154,M,Good,49,Others,59,Others,Science,65,b.Tech itgmt,0,none,86,62.48,No,Placed
+155,M,Good,53,Central,63,Others,Science,60,Compsci,3,none,70,53.2,No,Placed
+156,M,Good,51.57,Others,74.66,Others,Commerce,59.9,Electronics,0,none,56.15,65.99,No,Not Placed
+157,M,Bad,84.2,Central,69.4,Central,Science,65,b.Tech itgmt,4,none,80,52.72,No,Placed
+158,M,Good,66.5,Central,62.5,Central,Commerce,60.9,Electronics,5,completed,93.4,55.03,No,Placed
+159,M,Good,67,Others,63,Others,Science,64,Others,9,completed,60,61.87,No,Not Placed
+160,M,Good,52,Central,49,Others,Commerce,58,b.Tech itgmt,5,completed,62,60.59,Yes,Not Placed
+161,M,Good,87,Central,74,Central,Science,65,b.Tech itgmt,2,none,75,72.29,Yes,Placed
+162,M,Good,55.6,Others,51,Others,Commerce,57.5,Compsci,4,completed,57.63,62.72,No,Not Placed
+163,M,Good,74.2,Central,87.6,Others,Commerce,77.25,b.Tech itgmt,9,none,75.2,66.06,No,Placed
+164,M,Good,63,Others,67,Others,Science,64,Electronics,6,completed,75,66.46,No,Placed
+165,F,Good,67.16,Central,72.5,Central,Commerce,63.35,b.Tech itgmt,15,completed,53.04,65.52,No,Placed
+166,F,Good,63.3,Central,78.33,Others,Commerce,74,b.Tech itgmt,8,completed,80,74.56,Yes,Not Placed
+167,M,Good,62,Others,62,Others,Commerce,60,b.Tech itgmt,3,none,63,52.38,No,Placed
+168,M,Good,67.9,Others,62,Others,Science,67,Compsci,1,none,58.1,75.71,No,Not Placed
+169,F,Good,48,Central,51,Central,Commerce,58,b.Tech itgmt,7,none,60,58.79,No,Not Placed
+170,M,Good,59.96,Others,42.16,Others,Science,61.26,b.Tech itgmt,8,completed,54.48,65.48,No,Not Placed
+171,F,Bad,63.4,Others,67.2,Others,Commerce,60,Compsci,4,completed,58.06,69.28,No,Not Placed
+172,M,Bad,80,Others,80,Others,Commerce,72,b.Tech itgmt,11,none,63.79,66.04,No,Placed
+173,M,Bad,73,Others,58,Others,Commerce,56,b.Tech itgmt,1,completed,84,52.64,No,Placed
+174,F,Bad,52,Others,52,Others,Science,55,Electronics,6,completed,67,59.32,No,Not Placed
+175,M,Bad,73.24,Others,50.83,Others,Science,64.27,b.Tech itgmt,4,none,64,66.23,No,Placed
+176,M,Good,63,Others,62,Others,Science,65,b.Tech itgmt,1,completed,87.5,60.69,No,Not Placed
+177,F,Good,59,Central,60,Others,Commerce,56,Compsci,7,completed,55,57.9,Yes,Placed
+178,F,Good,73,Central,97,Others,Commerce,79,Compsci,8,none,89,70.81,Yes,Placed
+179,M,Good,68,Others,56,Others,Science,68,Compsci,17,completed,73,68.07,No,Placed
+180,F,Good,77.8,Central,64,Central,Science,64.2,b.Tech itgmt,7,completed,75.5,72.14,No,Not Placed
+181,M,Bad,65,Central,71.5,Others,Commerce,62.8,b.Tech itgmt,6,none,57,56.6,No,Placed
+182,M,Bad,62,Central,60.33,Others,Science,64.21,b.Tech itgmt,10,completed,63,60.02,No,Not Placed
+183,M,Bad,52,Others,65,Others,Arts,57,Electronics,4,none,75,59.81,Yes,Not Placed
+184,M,Good,65,Central,77,Central,Commerce,69,b.Tech itgmt,5,completed,60,61.82,Yes,Placed
+185,F,Bad,56.28,Others,62.83,Others,Commerce,59.79,b.Tech itgmt,1,completed,60,57.29,No,Not Placed
+186,F,Bad,88,Central,72,Central,Science,78,Compsci,9,completed,82,71.43,No,Placed
+187,F,Good,52,Central,64,Central,Commerce,61,Compsci,3,completed,55,62.93,No,Not Placed
+188,M,Good,78.5,Central,65.5,Central,Science,67,Compsci,13,none,95,64.86,No,Placed
+189,M,Bad,61.8,Others,47,Others,Commerce,54.38,b.Tech itgmt,8,completed,57,56.13,Yes,Not Placed
+190,F,Bad,54,Central,77.6,Others,Commerce,69.2,b.Tech itgmt,4,completed,95.65,66.94,No,Not Placed
+191,F,Bad,64,Others,70.2,Central,Commerce,61,Electronics,1,completed,50,62.5,No,Not Placed
+192,M,Bad,67,Others,61,Central,Science,72,Compsci,9,completed,72,61.01,No,Placed
+193,M,Good,65.2,Central,61.4,Central,Commerce,64.8,Compsci,5,none,93.4,57.34,No,Placed
+194,F,Good,60,Central,63,Central,Arts,56,b.Tech itgmt,9,none,80,56.63,No,Placed
+195,M,Bad,52,Others,55,Others,Commerce,56.3,b.Tech itgmt,10,completed,59,64.74,No,Not Placed
+196,M,Bad,66,Central,76,Central,Commerce,72,Others,3,none,84,58.95,No,Placed
+197,M,Good,72,Others,63,Others,Science,77.5,b.Tech itgmt,6,none,78,54.48,No,Placed
+198,F,Good,83.96,Others,53,Others,Science,91,Compsci,4,completed,59.32,69.71,No,Placed
+199,F,Good,67,Central,70,Central,Commerce,65,b.Tech itgmt,10,completed,88,71.96,No,Not Placed
+200,M,Bad,69,Others,65,Others,Commerce,57,Electronics,11,completed,73,55.8,No,Placed
+201,M,Bad,69,Others,60,Others,Commerce,65,b.Tech itgmt,34,completed,87.55,52.81,No,Placed
+202,M,Bad,54.2,Central,63,Others,Science,58,b.Tech itgmt,9,completed,79,58.44,No,Not Placed
+203,M,Good,70,Central,63,Central,Science,66,Electronics,2,completed,61.28,60.11,No,Placed
+204,M,Bad,55.68,Others,61.33,Others,Commerce,56.87,b.Tech itgmt,3,completed,66,58.3,No,Placed
+205,F,Bad,74,Others,73,Others,Commerce,73,b.Tech itgmt,4,none,80,67.69,No,Placed
+206,M,Good,61,Others,62,Others,Commerce,65,b.Tech itgmt,7,completed,62,56.81,No,Placed
+207,M,Good,41,Central,42,Central,Science,60,Compsci,8,completed,97,53.39,No,Not Placed
+208,M,Good,83.33,Central,78,Others,Commerce,61,b.Tech itgmt,10,none,88.56,71.55,No,Placed
+209,F,Bad,43,Central,60,Others,Science,65,Compsci,9,completed,92.66,62.92,Yes,Not Placed
+210,M,Bad,62,Central,72,Central,Commerce,65,b.Tech itgmt,8,completed,67,56.49,No,Placed
+211,M,Good,80.6,Others,82,Others,Commerce,77.6,Electronics,6,completed,91,74.49,No,Placed
+212,M,Good,58,Others,60,Others,Science,72,b.Tech itgmt,3,completed,74,53.62,Yes,Placed
+213,M,Bad,67,Others,67,Others,Commerce,73,Compsci,4,none,59,69.72,No,Placed
+214,F,Bad,74,Others,66,Others,Commerce,58,b.Tech itgmt,5,completed,70,60.23,No,Placed
+215,M,Bad,62,Central,58,Others,Science,53,b.Tech itgmt,6,completed,89,60.22,No,Not Placed
