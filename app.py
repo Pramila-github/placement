@@ -3,7 +3,8 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
-models = pickle.load('model.sav')
+
+models = pickle.load(open('model.sav', 'rb'))
 
 
 #Fitting model with training data
