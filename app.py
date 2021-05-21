@@ -2,8 +2,8 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import joblib
-models = joblib.load('model.sav')
+import pickle
+models = pickle.load('model.sav')
 
 
 #Fitting model with training data
