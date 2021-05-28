@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import pickle
 
-models = pickle.load(open('model.pkl', 'rb'))
+models = pickle.load(open('final_model.pkl', 'rb'))
 def home():
     return "welcome"
 
