@@ -231,7 +231,7 @@ def main():
                     paragraph.text=paragraph.text.replace("lang",lang)
                 if 'ext' in paragraph.text: 
                     paragraph.text=paragraph.text.replace("ext",ex)
-                
+            open('Resume.docx', "w")    
             doc.save('Resume.docx') 
             st.markdown(get_binary_file_downloader_html('Resume.docx', 'Your Resume'), unsafe_allow_html=True)  
 
