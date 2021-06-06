@@ -231,10 +231,9 @@ def main():
                     paragraph.text=paragraph.text.replace("lang",lang)
                 if 'ext' in paragraph.text: 
                     paragraph.text=paragraph.text.replace("ext",ex)
-            os.system("Resume.docx")
-            file= open("Resume.docx", "wb")    
-            doc.save(file) 
-            st.markdown(get_binary_file_downloader_html('Resume.docx', 'Your Resume'), unsafe_allow_html=True)  
+            
+            doc.save('Template.docx') 
+            st.markdown(get_binary_file_downloader_html('Template.docx', 'Your Resume'), unsafe_allow_html=True)  
 
     
 if __name__ == "__main__":
