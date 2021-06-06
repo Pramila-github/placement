@@ -57,7 +57,7 @@ regressor=regressor.fit(X_train,Y_train)
 pickle.dump(regressor, open('final_model.pkl','wb'))
 # Loading model to compare the results
 #print(model.predict([[0,convert_to_int('Good'),39,0,58,0,0,58,0,4,convert_to_int('none'),58,58,convert_to_int('No')]]))
-
+st.beta_set_page_config(initial_sidebar_state="expanded")
 models = pickle.load(open('final_model.pkl', 'rb'))
 
 def home():
@@ -80,9 +80,7 @@ def get_binary_file_downloader_html(bin_file, file_label='File'):
         bin_str = base64.b64encode(data).decode()
         href = f'<a href="data:application/octet-stream;base64,{bin_str}" download="{os.path.basename(bin_file)}">Download {file_label}</a>'
         return href
-st.set_page_config(
-initial_sidebar_state="expanded"
-)
+
 
 def main():
     st.title("STUDENT PLACEMENT PREDICTION⭐")
