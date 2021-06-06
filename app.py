@@ -7,9 +7,7 @@ import base64
 import docx
 from PIL import Image
 
-st.set_page_config(
-initial_sidebar_state="expanded"
-)
+
 dataset = pd.read_csv('placementdata.csv')
 def convert_to_int(word):
     word_dict = {'Good':1, 'Bad':0,'Yes':1,'No':0,'completed':1,'none':0}
@@ -82,7 +80,9 @@ def get_binary_file_downloader_html(bin_file, file_label='File'):
         bin_str = base64.b64encode(data).decode()
         href = f'<a href="data:application/octet-stream;base64,{bin_str}" download="{os.path.basename(bin_file)}">Download {file_label}</a>'
         return href
-
+st.set_page_config(
+initial_sidebar_state="expanded"
+)
 
 def main():
     st.title("STUDENT PLACEMENT PREDICTION⭐")
