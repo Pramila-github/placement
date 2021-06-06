@@ -135,7 +135,7 @@ def main():
         
     if(st.checkbox("Generate Resume")): 
         with st.beta_expander("1. Image Upload"):
-            uploaded_file = st.file_uploader(label="Upload your profile picture",type=['png','jpeg'])
+            uploaded_file = st.file_uploader(label="Upload your profile picture",type=['png','jpeg','jpg'])
             if uploaded_file is None:
                 uploaded_file='user.png'
         with st.beta_expander("2. Personal Information"):
