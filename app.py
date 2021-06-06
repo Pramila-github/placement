@@ -57,7 +57,7 @@ regressor=regressor.fit(X_train,Y_train)
 pickle.dump(regressor, open('final_model.pkl','wb'))
 # Loading model to compare the results
 #print(model.predict([[0,convert_to_int('Good'),39,0,58,0,0,58,0,4,convert_to_int('none'),58,58,convert_to_int('No')]]))
-st.beta_set_page_config(initial_sidebar_state="expanded")
+st.beta_set_page_config(initial_sidebar_state="expanded",layout="wide")
 models = pickle.load(open('final_model.pkl', 'rb'))
 
 def home():
