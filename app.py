@@ -6,6 +6,10 @@ import os
 import base64
 import docx
 from PIL import Image
+
+st.set_page_config(
+initial_sidebar_state="expanded"
+)
 dataset = pd.read_csv('placementdata.csv')
 def convert_to_int(word):
     word_dict = {'Good':1, 'Bad':0,'Yes':1,'No':0,'completed':1,'none':0}
