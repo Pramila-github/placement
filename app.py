@@ -103,7 +103,8 @@ def main():
     degree_t = st.radio("Degree(Engineering) 🎓", ('Computer science Engineering', ' B.Tech IT', 'Electronics','Other'))
     degree_t1 =convert_to_int(degree_t)
     degree_p = st.slider('Degree percentage', 0, 1, 100)
-    No_certi = st.text_input('Number of certifications 🏆📜')
+    #No_certi = st.text_input('Number of certifications 🏆📜')
+    No_certi = st.number_input('Number of certifications 🏆📜', min_value=0, max_value=500, step=1)
     internships = st.radio("Internships 👨‍💻", ('completed', 'none'))
     internships1 = convert_to_int(internships)
     etest_p = st.slider('E-tests(aptitude)  🏁', 0, 1, 100)
@@ -114,7 +115,7 @@ def main():
 
     result = ""
     if st.button("Submit"):
-        result = predict(gender1,comSkill1, ssc_p,ssc_b1, hsc_p,hsc_b1,hsc_s, degree_p,degree_t1,float(No_certi), internships1,etest_p, placetest_p,sports1)
+        result = predict(gender1,comSkill1, ssc_p,ssc_b1, hsc_p,hsc_b1,hsc_s, degree_p,degree_t1,No_certi, internships1,etest_p, placetest_p,sports1)
         print(result)
     
 
