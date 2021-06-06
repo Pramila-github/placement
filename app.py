@@ -114,7 +114,7 @@ def main():
 
     result = ""
     if st.button("Submit"):
-        result = predict(gender1,comSkill1, ssc_p,ssc_b1, hsc_p,hsc_b1,hsc_s, degree_p,degree_t1, No_certi, internships1,etest_p, placetest_p,sports1)
+        result = predict(gender1,comSkill1, ssc_p,ssc_b1, hsc_p,hsc_b1,hsc_s, degree_p,degree_t1,float(No_certi), internships1,etest_p, placetest_p,sports1)
         print(result)
     
 
