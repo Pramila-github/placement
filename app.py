@@ -178,7 +178,6 @@ def main():
             font = style.font
             font.name = 'Times New Roman'
             font.size = Pt(12)
-            #a_file = open(r'C:\Users\PRAMILA\Desktop\New folder\resfile.docx', "r",encoding='ANSI')
             tables = doc.tables
             img = tables[0].rows[0].cells[0].add_paragraph()
             r = img.add_run()
