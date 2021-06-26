@@ -7,15 +7,13 @@ import base64
 import docx
 from PIL import Image
 
-
 dataset = pd.read_csv('placementdata.csv')
 def convert_to_int(word):
-    word_dict = {'Good':1, 'Bad':0,'Yes':1,'No':0,'completed':1,'none':0}
+    word_dict = {'Good':1, 'Bad':0,'Yes':1,'No':0,'completed':1,'none':0,'Placed':1,'Not PLaced':0}
     return word_dict[word]
 
 
 dataset = dataset.drop('sl_no', axis=1)
-
 
 # catgorising col for further labelling
 dataset["gender"] = dataset["gender"].astype('category')
@@ -24,7 +22,7 @@ dataset["ssc_b"] = dataset["ssc_b"].astype('category')
 dataset["hsc_b"] = dataset["hsc_b"].astype('category')
 dataset["degree_t"] = dataset["degree_t"].astype('category')
 dataset["Internship"] = dataset["Internship"].astype('category')
-dataset["status"] = dataset["status"].astype('category')
+#dataset["status"] = dataset["status"].astype('category')
 dataset["sports"] = dataset["sports"].astype('category')
 dataset["hsc_s"] = dataset["hsc_s"].astype('category')
 
@@ -37,21 +35,23 @@ dataset["degree_t"] = dataset["degree_t"].cat.codes
 dataset["Internship"] = dataset["Internship"].cat.codes
 dataset["sports"] = dataset["sports"].cat.codes
 dataset["hsc_s"] = dataset["hsc_s"].cat.codes
+#dataset["status"] = dataset["status"].cat.codes
 
 
 # selecting the features and labels
 X = dataset.iloc[:, :-1].values
-Y=dataset.loc[:,['status']]
+Y=dataset.loc[:,['salary']]
+from sklearn.metrics import accuracy_score
 
 from sklearn.model_selection import train_test_split
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2)
 
-#importing the random forest classifier model and training it on the dataset
-from sklearn.ensemble import RandomForestClassifier
-regressor = RandomForestClassifier()
-regressor=regressor.fit(X_train,Y_train)
 
-#print(regressor.score(X_test, Y_test))
+
+from sklearn.ensemble import RandomForestClassifier
+rand_forest = RandomForestClassifier()
+rand_forest=rand_forest.fit(X_train,Y_train)
+print(rand_forest.predict([[0,1,100.00,0,100.33,1,0,100.4,1,6,0,86,66.28,0]]))
 
 # Saving model to disk
 pickle.dump(regressor, open('final_model.pkl','wb'))
