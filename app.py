@@ -134,7 +134,7 @@ def main():
         if(result>[0]):
           st.success('You will be Placed with {} L per annum'.format("%.1f" % result))
         else:
-           st.success('Not placed {}'.format(result)) 
+           st.success('Not placed') 
         
     if(st.checkbox("Generate Resume")): 
         with st.beta_expander("1. Image Upload"):
