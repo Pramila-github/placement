@@ -131,7 +131,10 @@ def main():
         st.write("Number of certifications 🏆📜 :", No_certi)
         st.write("Through sports ⚽️🏏🏃‍♂️  :", sports)
 
-        st.success('Predicted Result is {}'.format(result))
+        if(result>[0]):
+          st.success('You will be Placed with {} L per annum'.format("%.1f" % result))
+        else:
+           st.success('Not placed {}'.format(result)) 
         
     if(st.checkbox("Generate Resume")): 
         with st.beta_expander("1. Image Upload"):
