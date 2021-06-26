@@ -132,7 +132,7 @@ def main():
         st.write("Through sports ⚽️🏏🏃‍♂️  :", sports)
 
         if(result>[0]):
-          st.success('You will be Placed with {} L per annum'.format("%.1f" % result))
+          st.success('You will be Placed with {} per annum'.format("%.1f" % result))
         else:
            st.success('Not placed') 
         
