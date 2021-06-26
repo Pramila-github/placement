@@ -132,9 +132,9 @@ def main():
         st.write("Through sports ⚽️🏏🏃‍♂️  :", sports)
 
         if(result>[0]):
-          st.success('Predicted Results:- You will be Placed with {} per annum'.format("%.1f" % result))
+          st.success('Predicted Results :- You will be Placed with {} per annum'.format("%.1f" % result))
         else:
-           st.success('Predicted Results:- Not Placed') 
+           st.success('Predicted Results :- Not Placed') 
         
     if(st.checkbox("Generate Resume")): 
         with st.beta_expander("1. Image Upload"):
