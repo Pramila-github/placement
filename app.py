@@ -84,7 +84,7 @@ def get_binary_file_downloader_html(bin_file, file_label='File'):
 
 
 def main():
-    st.title("STUDENT PLACEMENT PREDICTION⭐")
+    st.markdown("<h1 style ='color:#BB1D3F; text_align:center;font-family:times new roman;font-weight: bold;font-size:35pt;'>STUDENT PLACEMENT PREDICTION⭐ </h1>", unsafe_allow_html=True)  
     st.sidebar.header('STUDENT DETAILS💻')
     name = st.sidebar.text_input('Name 📋')
     sl_no = st.sidebar.text_input('Register Number 📋')
