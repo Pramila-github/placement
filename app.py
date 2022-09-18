@@ -84,7 +84,7 @@ def get_binary_file_downloader_html(bin_file, file_label='File'):
 
 
 def main():
-    st.markdown("<h1 style ='color:#BB1D3F; text_align:center;font-family:times new roman;font-weight: bold;font-size:35pt;'>STUDENT PLACEMENT PREDICTION⭐ </h1>", unsafe_allow_html=True)  
+    st.markdown("<h1 style ='color:green; text_align:center;font-family:times new roman;font-weight: bold;font-size:20pt;'>STUDENT PLACEMENT PREDICTION⭐ </h1>", unsafe_allow_html=True)  
     st.sidebar.header('STUDENT DETAILS💻')
     name = st.sidebar.text_input('Name 📋')
     sl_no = st.sidebar.text_input('Register Number 📋')
@@ -137,11 +137,11 @@ def main():
            st.success('Predicted Results :- Not Placed') 
         
     if(st.checkbox("Generate Resume")): 
-        with st.beta_expander("1. Image Upload"):
+        with st.expander("1. Image Upload"):
             uploaded_file = st.file_uploader(label="Upload your profile picture",type=['png','jpeg','jpg'])
             if uploaded_file is None:
                 uploaded_file='user.png'
-        with st.beta_expander("2. Personal Information"):
+        with st.expander("2. Personal Information"):
             col1,col2,col3 = st.beta_columns(3) 
             with col1:
                 prof = st.text_input("Profession")
@@ -164,7 +164,7 @@ def main():
             with col9:
                 ex= st.text_input("Extra-curricular Activities")
                 
-        with st.beta_expander("3. Academic Information"):
+        with st.expander("3. Academic Information"):
             col1,col2,col3 = st.beta_columns(3) 
             with col1:
                 ssc= st.text_input("SSC completion year")
